@@ -19,7 +19,7 @@
   ·
   <a href="https://github.com/codesuab/deploysync/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Request Feature</a>
   ·
-  <a href="https://github.com/codesuab/deploysync/discussions/1770">FAQ</a>
+  <a href="https://github.com/codesuab/deploysync/discussions/1">FAQ</a>
   ·
   <a href="https://github.com/codesuab/deploysync/discussions/new?category=q-a">Ask Question</a>
 </p>
