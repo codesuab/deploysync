@@ -1,42 +1,29 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
+  <img src="./assets/icon.png" width="100px" alt="GitHub Readme Stats" />
   <h1 style="font-size: 28px; margin: 10px 0;">DeploySync</h1>
   <p>Smart deployment automation for FTP and SFTP servers.</p>
 </div>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-    <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
-  </a>
-  <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-    <img alt="Tests Coverage" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
-  </a>
-  <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
-    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
-  </a>
-  <br />
-  <br />
+
+  <img alt="Version" src="https://img.shields.io/badge/version-v1.0.0-blue.svg" />
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-green.svg" />
+  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%20%7C%20Cross--Platform-lightgrey.svg" />
+  <img alt="Status" src="https://img.shields.io/badge/status-production%20ready-success.svg" />
+  <img alt="Built With" src="https://img.shields.io/badge/built%20with-Electron%20%7C%20React%20%7C%20TypeScript-ff69b4.svg" />
+
 </p>
 
 <p align="center">
   <a href="#all-demos">View Demo</a>
   ·
-  <a href="https://github.com/anuraghazra/github-readme-stats/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Report Bug</a>
+  <a href="https://github.com/codesuab/github-readme-stats/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Report Bug</a>
   ·
-  <a href="https://github.com/anuraghazra/github-readme-stats/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Request Feature</a>
+  <a href="https://github.com/codesuab/github-readme-stats/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Request Feature</a>
   ·
-  <a href="https://github.com/anuraghazra/github-readme-stats/discussions/1770">FAQ</a>
+  <a href="https://github.com/codesuab/github-readme-stats/discussions/1770">FAQ</a>
   ·
-  <a href="https://github.com/anuraghazra/github-readme-stats/discussions/new?category=q-a">Ask Question</a>
+  <a href="https://github.com/codesuab/github-readme-stats/discussions/new?category=q-a">Ask Question</a>
 </p>
 
 DeploySync is a desktop application that simplifies website deployment by detecting file changes and synchronizing only modified files, making deployments faster and more efficient.
@@ -55,13 +42,16 @@ DeploySync is a desktop application that simplifies website deployment by detect
 ## Screenshots
 
 ### Dashboard
-![Dashboard](./screenshots/3.png)
+
+![Dashboard](./assets/3.png)
 
 ### New Project
-![New Project](./screenshots/1.png)
+
+![New Project](./assets/1.png)
 
 ### Deployment
-![Deployment](./screenshots/2.png)
+
+![Deployment](./assets/2.png)
 
 ## How It Works
 
