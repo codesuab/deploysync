@@ -60,8 +60,6 @@ Deployment Complete
 
 ## Screenshots
 
-<div align="center">
-
 <table>
   <tr>
     <td align="left">
@@ -91,15 +89,11 @@ Deployment Complete
 - Node.js
 - Tailwind CSS
 
-<br/>
-
 ## Security
 
 - Local encrypted credential storage
 - Secure FTP & SFTP connections
 - No external tracking or telemetry
-
-<br/>
 
 ## Use Cases
 
@@ -109,8 +103,6 @@ Deployment Complete
 - Freelance project delivery
 - Agency deployment workflow
 
-<br/>
-
 ## Roadmap
 
 - Git-based deployment integration
@@ -118,8 +110,6 @@ Deployment Complete
 - Auto rollback system
 - Cloud deployment profiles
 - Team collaboration features
-
-<br/>
 
 ## Installation
 
@@ -129,13 +119,9 @@ Deployment Complete
 4. Configure server
 5. Deploy
 
-<br/>
-
 ## License
 
 MIT License
-
-<br/>
 
 ## Support
 
