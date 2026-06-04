@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<strong style="font-size: 28px;">Your Data Never Leaves Your Environment</strong>
+<strong style="font-size: 40px;">Your Data Never Leaves Your Environment</strong>
 <br>
 All project data is stored locally on your device.<br>
 No cloud storage, no analytics, no telemetry.
