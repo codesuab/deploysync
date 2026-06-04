@@ -25,7 +25,6 @@
 
 > DeploySync combines smart file deployment, Git-aware sync, remote file management, database backup & restore, and real-time automation into a single desktop application.
 
-<br/>
 
 ## Features
 
