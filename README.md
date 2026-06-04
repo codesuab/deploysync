@@ -16,10 +16,20 @@
   <a href="https://github.com/codesuab/deploysync/discussions">Discussions</a> ·
   <a href="https://github.com/codesuab">Developer</a>
 </div>
+<br/>
+
+<div align="center">
+
+<strong style="font-size: 28px;">Your Data Never Leaves Your Environment</strong>
+<br>
+All project data is stored locally on your device.<br>
+No cloud storage, no analytics, no telemetry.
+
+</div>
 
 <br/>
 
-> DeploySync detects only the files that changed in your project and uploads just those to your server — no more uploading everything every time.
+> DeploySync combines smart file deployment, Git-aware sync, remote file management, database backup & restore, and real-time automation into a single desktop application.
 
 <br/>
 
@@ -85,6 +95,9 @@ Optional security with auto-lock on inactivity, minimize, or close.
 - No external tracking, analytics, or telemetry
 - Only outbound connections to your own FTP/SFTP servers
 - Optional PIN lock with configurable timeout
+- All data is stored locally on your device
+- No project files, credentials, databases, or deployment history are sent to external servers
+- DeploySync does not collect or store your data
 
 ## License
 
