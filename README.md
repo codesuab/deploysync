@@ -9,7 +9,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-green.svg" />
   <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg" />
 </div>
-
+<br/>
 <div align="center">
   <a href="https://github.com/codesuab/deploysync/issues">Report Bug</a> ·
   <a href="https://github.com/codesuab/deploysync/issues">Request Feature</a> ·
@@ -26,33 +26,43 @@
 ## Features
 
 ### Incremental Sync
+
 Uploads only new and modified files using MD5 hash comparison.
 
 ### Git-Aware Deployments
+
 Deploy based on uncommitted changes or compare against the last commit.
 
 ### Auto-Sync on Save
+
 Watches your project folder and deploys changes automatically when you save.
 
 ### FTP & SFTP
+
 Works with both protocols. Credentials are stored encrypted locally.
 
 ### Multi-Project Workspace
+
 Manage all your sites in one place with independent history and configs.
 
 ### Remote File Explorer
+
 Browse, navigate, and inspect files on your server from the app.
 
 ### Deployment History
+
 See every deployment — what was uploaded, when, and the result.
 
 ### Real-Time Logs
+
 Live progress feed showing exactly which file is being uploaded.
 
 ### Import / Export Config
+
 Share project setups as `.deploysync` files across machines.
 
 ### PIN Lock Screen
+
 Optional security with auto-lock on inactivity, minimize, or close.
 
 ## Quick Start
