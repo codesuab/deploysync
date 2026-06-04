@@ -18,16 +18,10 @@
 </div>
 <br/>
 
-<div align="center">
 
-<strong style="font-size: 40px;">Your Data Never Leaves Your Environment</strong>
-<br>
-All project data is stored locally on your device.<br>
-No cloud storage, no analytics, no telemetry.
+# Your Data Never Leaves Your Environment
 
-</div>
-
-<br/>
+> All project data is stored locally on your device. No cloud storage, no analytics, no telemetry.
 
 > DeploySync combines smart file deployment, Git-aware sync, remote file management, database backup & restore, and real-time automation into a single desktop application.
 
