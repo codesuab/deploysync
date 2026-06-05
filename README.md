@@ -5,7 +5,7 @@
   <h1>DeploySync</h1>
   <p><b>Smart FTP/SFTP deployment manager for cPanel hosting</b></p>
 
-  <img alt="Version" src="https://img.shields.io/badge/version-v2.0.0-blue.svg" />
+  <img alt="Version" src="https://img.shields.io/badge/version-v1.0.0-blue.svg" />
   <img alt="License" src="https://img.shields.io/badge/license-MIT-green.svg" />
   <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg" />
 </div>
@@ -18,13 +18,11 @@
 </div>
 <br/>
 
-
 # Your Data Never Leaves Your Environment
 
 > All project data is stored locally on your device. No cloud storage, no analytics, no telemetry.
 
 > DeploySync combines smart file deployment, Git-aware sync, remote file management, database backup & restore, and real-time automation into a single desktop application.
-
 
 ## Features
 
